@@ -1,7 +1,7 @@
 ## Hi there 
 
-I am @Samartha Ramkumar
-I enjoy working on ML models that push real-world boudaries and create meaningful solutions.
+- I am @Samartha Ramkumar     
+- I enjoy working on ML models that push real-world boudaries and create meaningful solutions.
 
 <!--
 **Samartha27/Samartha27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
